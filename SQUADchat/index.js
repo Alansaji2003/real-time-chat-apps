@@ -3,13 +3,7 @@ window.onload = function() {
 
     // Your web app's Firebase configuration
     const firebaseConfig = {
-        apiKey: "AIzaSyBF8kFRkjDMYpPiNEndsQmkak1CoHWl-X0",
-        authDomain: "zapchat-6e12a.firebaseapp.com",
-        projectId: "zapchat-6e12a",
-        storageBucket: "zapchat-6e12a.appspot.com",
-        messagingSenderId: "507118401412",
-        appId: "1:507118401412:web:372a7f6fbcb719d4d1cfd1",
-        databaseURL: 'https://zapchat-6e12a-default-rtdb.asia-southeast1.firebasedatabase.app'
+        //your firebase config
       };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
